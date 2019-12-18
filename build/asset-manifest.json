@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/thanglish-tamil/static/css/main.6321ae9f.chunk.css",
+    "main.js": "/thanglish-tamil/static/js/main.36b3a415.chunk.js",
+    "main.js.map": "/thanglish-tamil/static/js/main.36b3a415.chunk.js.map",
+    "runtime-main.js": "/thanglish-tamil/static/js/runtime-main.65567573.js",
+    "runtime-main.js.map": "/thanglish-tamil/static/js/runtime-main.65567573.js.map",
+    "static/js/2.2beee410.chunk.js": "/thanglish-tamil/static/js/2.2beee410.chunk.js",
+    "static/js/2.2beee410.chunk.js.map": "/thanglish-tamil/static/js/2.2beee410.chunk.js.map",
+    "index.html": "/thanglish-tamil/index.html",
+    "precache-manifest.f49f45efb21c41254353e5be988d644f.js": "/thanglish-tamil/precache-manifest.f49f45efb21c41254353e5be988d644f.js",
+    "service-worker.js": "/thanglish-tamil/service-worker.js",
+    "static/css/main.6321ae9f.chunk.css.map": "/thanglish-tamil/static/css/main.6321ae9f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65567573.js",
+    "static/js/2.2beee410.chunk.js",
+    "static/css/main.6321ae9f.chunk.css",
+    "static/js/main.36b3a415.chunk.js"
+  ]
+}

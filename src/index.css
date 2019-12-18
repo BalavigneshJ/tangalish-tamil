@@ -1,0 +1,57 @@
+.note-content{
+  width: 47%;
+  height: 90%;
+  position: fixed;
+  left: 2%;
+  top: 6%;
+  border: 1px solid #c9cece;
+}
+
+.note-tamil{
+  width: 47%;
+  height: 90%;
+  position: fixed;
+  left: 51%;
+  top: 6%;
+  border: 1px solid #c9cece;
+}
+
+ .centered-element {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: -50px;
+    top: 50%;
+    margin-top: -50px;
+  }
+
+  .show{
+    display: flex;
+  }
+
+  .hide{
+    display: none;
+  }
+
+  .wrapperClassName{
+    height: 100%;
+  }
+
+  .editorClassName{
+    margin-left: 10px;
+  }
+
+  .text-editor{
+      height: 100%;
+  }
+
+  .tamil-text{
+    /* font-family: 'Catamaran', sans-serif; */
+    font-family: 'Pavanam', sans-serif;
+  }
+
+  .tamil-guide{
+    margin: 17px;
+    font-size: x-large;
+  }
